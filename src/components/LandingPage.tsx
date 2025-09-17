@@ -41,9 +41,9 @@ const LandingPage: FC = () => {
       </header>
 
       {/* Hero Section */}
-      <section className="text-center px-6 py-16 bg-gray-50">
-        <h2 className="text-4xl md:text-5xl font-bold mb-4">
-          Build Your Landing Page With Ease
+      <section className="text-center px-6 py-16 bg-white">
+        <h2 className="text-4xl md:text-5xl pt-32 font-bold mb-4">
+          Landing page/Blog-Article post
         </h2>
         <p className="text-lg text-gray-600 max-w-2xl mx-auto mb-6">
           A simple, clean, and responsive layout built with TailwindCSS +
